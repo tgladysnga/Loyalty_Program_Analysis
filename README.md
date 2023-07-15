@@ -15,4 +15,6 @@ The result of our analysis would be needed to help the target audience decide to
 |:----------------------:|:---------------------------:|:---------------------------:|
 | [Loyalty Program Analysis](loyalty_pogram_analysis) | **Python**, **Jupyter Notebook** | *pandas*, *matplotlib.pyplot*, *plotly.express*, *seaborn*, *scipy* |
 
+# Tableau Dashboard
+[Tableau Dashboard of Project](https://public.tableau.com/app/profile/gladys7701/viz/FinalProject_16847734147640/DashboardofFinalProject?publish=yes)
 
